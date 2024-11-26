@@ -10,6 +10,8 @@ I’m @abhi-xyz and I'm a student at Sree Sabareesa College Kerala, India.
 
 ## 🌱 I’m currently learning
 - rust
+- nix
+- typescript
 
 ## Languages
 
