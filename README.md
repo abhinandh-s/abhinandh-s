@@ -15,7 +15,7 @@ I’m @abhi-xyz and I'm a student at Sree Sabareesa College Kerala, India.
 
 ## Languages
 
-<img src="rust_logo.png" height="40"> <img src="python_logo.png" height="40"> <img src="c_logo.png" height="40">
+<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="40"> <img src="https://search.nixos.org/images/nix-logo.png" height="40"> <img src="c_logo.png" height="40">
 
 Rust is the way.
 
