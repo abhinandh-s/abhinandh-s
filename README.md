@@ -4,8 +4,7 @@ I’m @abhi-xyz and I'm a student at Sree Sabareesa College Kerala, India.
 ## I love:
 - linux
 - maths
-- digital painting
-- pencil drawing
+- digital paintings
 - rust
 
 ## 🌱 I’m currently learning
