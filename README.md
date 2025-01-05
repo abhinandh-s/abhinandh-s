@@ -20,4 +20,4 @@ I’m Abhinandh S and I'm a student at Sree Sabareesa College Kerala, India.
 abhi-xyz/abhi-xyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://github-readme-stats.vercel.app/api?abhi-xyz=thatonecalculator&theme=rose_pine)
+![](https://github-readme-stats.vercel.app/api?username=abhi-xyz&theme=rose_pine)
