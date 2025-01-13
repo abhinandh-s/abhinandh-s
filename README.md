@@ -1,5 +1,5 @@
 # 👋 Hi, 
-I’m Abhinandh S and I'm a student at Sree Sabareesa College Kerala, India.
+I’m Abhinandh S and I'm a CMA student at Biswas Institute of Management Studies, Kerala, India.
 
 ## I love:
 - linux
