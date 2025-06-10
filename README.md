@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux, git, neovim, html, css, tailwind, figma, rust, lua, nix" />
+    <img src="https://skillicons.dev/icons?i=linux, git, neovim, html, tailwind, rust, lua, nix" />
   </a>
 </p>
