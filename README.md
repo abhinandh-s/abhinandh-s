@@ -22,3 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-stats.vercel.app/api?username=abhi-xyz&theme=rose_pine)
 --->
+
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
