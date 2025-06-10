@@ -1,4 +1,4 @@
-# 👋 Hi, 
+# :coffee: Welcome to my Page! :pizza:
 I’m Abhinandh S and I'm a CMA student at Biswas Institute of Management Studies, Kerala, India.
 
 ## 💪🏽 My Skills
