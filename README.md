@@ -9,9 +9,6 @@ I’m Abhinandh S and I'm a CMA student at Biswas Institute of Management Studie
 
 ## 🌱 stats
 
-![Stats]()
-![Top langs]()
-
 <a href="https://github.com/abhinandh-s">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandh-s&show_icons=true&theme=dark&rank_icon=github&hide=issues" />
 </a>
