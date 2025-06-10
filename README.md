@@ -9,8 +9,16 @@ I’m Abhinandh S and I'm a CMA student at Biswas Institute of Management Studie
 
 ## 🌱 stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abhinandh-s&show_icons=true&theme=dark&rank_icon=github&hide=issues)
-![Top langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=abhinandh-s&layout=compact&theme=dark)
+![Stats]()
+![Top langs]()
+
+<a href="https://github.com/abhinandh-s">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandh-s&show_icons=true&theme=dark&rank_icon=github&hide=issues" />
+</a>
+<a href="https://github.com/abhinandh-s">
+  <img height=200 align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=abhinandh-s&layout=compact&theme=dark" />
+</a>
+
 
 ## 💪🏽 My Skills
 
