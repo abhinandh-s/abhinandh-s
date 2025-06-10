@@ -27,4 +27,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux, git, neovim, html, css, tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=
+git, neovim, html, css, tailwind&theme=dark)](https://skillicons.dev)
