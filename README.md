@@ -11,7 +11,7 @@ I’m Abhinandh S and I'm a CMA student at Biswas Institute of Management Studie
 - rust
 - nix
 - typescript
-![Stats](https://github-readme-stats.vercel.app/api?username=abhinandh-s&show_icons=true&theme=tokionight&rank_icon=github&hide=issues&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=abhinandh-s&show_icons=true&theme=gruvbox&rank_icon=github&hide=issues)
 ![Top langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=abhinandh-s&layout=compact&theme=dark)
 
 ## My Skills
