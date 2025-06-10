@@ -27,7 +27,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, neovim, tailwind, rust, lua, nix" />
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 </p>
